@@ -11,7 +11,7 @@ example sentence, and every grammar example sentence in the target language.
 | Dir | Language | Voice | Clips |
 | --- | --- | --- | ---: |
 | `audio/de/` | German | Piper `de_DE-thorsten-medium` | 15,095 |
-| `audio/en/` | English (British) | macOS `say -v Daniel` (en_GB) | 4,705 |
+| `audio/en/` | English (British) | macOS `say -v Daniel` (en_GB) | 5,485 |
 | `audio/es_ar/` | Argentinian Spanish | Piper `es_AR-daniela-high` | 12,276 |
 | `audio/fr/` | French | Piper `fr_FR-siwis-medium` | 12,208 |
 | `audio/it/` | Italian | Piper `it_IT-riccardo-x_low` | 10,231 |
